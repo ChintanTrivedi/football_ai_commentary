@@ -10,7 +10,7 @@ This code has been tested on an Ubuntu 18.04 platform with access to an Nvidia G
 2. Install text-to-speech library [pyttsx3](https://pypi.org/project/pyttsx3/) using `pip install pyttsx3`.
 
 ### Train GPT-2
-1. Use the notebook `src/train_commentary_gpt2.ipynb` on Google Colab to train the model.
+1. Use the notebook `src/train_commentary_gpt2.ipynb` on [Google Colab](https://colab.research.google.com/) to train the model.
 2. Once trained, download the `checkpoint/run1/*` files under this directory `src/models/345M/`.
 
 ### Execute the commentary engine
