@@ -1,5 +1,8 @@
-# AI generating real-time football commentary- [Video](https://www.youtube.com/watch?v=p9AmkiG8UeI)
+# AI generating real-time football commentary
+## [Project Video](https://www.youtube.com/watch?v=p9AmkiG8UeI)
 This repo contains code for training and executing an AI-based soccer/football commentary engine using OpenAI GPT-2 language model running on top of Google's opensource Football Environment.
+
+![project image](https://github.com/ChintanTrivedi/football_ai_commentary/blob/master/thumbnail.png)
 
 ### Setup instructions
 This code has been tested on an Ubuntu 18.04 platform with access to an Nvidia GPU.
